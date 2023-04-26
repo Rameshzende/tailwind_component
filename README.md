@@ -1,2 +1,2 @@
 # tailwind_component
-tailwind Component
+Tailwind Component
